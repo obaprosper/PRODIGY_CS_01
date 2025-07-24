@@ -23,7 +23,7 @@ Clone the repository (or download the file):
 If you're using Git, you can clone this repository to your local machine:git clone https://github.com/obaprosper/PRODIGY_CS_01.git
 
 2. Navigate to the program directory:
-Ensure you are in the directory where caesar_cipher.py is located.
+Ensure you are in the directory where 'Caesar Cipher Encryptor and Decryptor.py' is located.
 
 Usage
 To run the program, open your terminal or command prompt, navigate to the directory where you saved the caesar_cipher.py file, and execute the following command:
