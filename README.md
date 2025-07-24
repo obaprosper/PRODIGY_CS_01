@@ -31,7 +31,8 @@ Ensure you are in the directory where 'Caesar Cipher Encryptor and Decryptor.py'
 
 Usage
 
-To run the program, open your terminal or command prompt, navigate to the directory where you saved the caesar_cipher.py file, and execute the following command:
+To run the program, open your terminal or command prompt, navigate to the directory where you saved the 'Caesar Cipher Encryptor and Decryptor.py' file, and execute the following command:
+
 python 'Caesar Cipher Encryptor and Decryptor.py'
 
 The program will then present you with a menu:Welcome to the Caesar Cipher Tool!
@@ -44,11 +45,15 @@ Enter your choice (1, 2, or 3):
 
 Options:
 1. Encrypt a message:
+   
    Enter your message.
    Enter a positive integer for the shift value (e.g., 3 to shift 'A' to 'D').
+   
 2. Decrypt a message:
+   
    Enter the encrypted message.
    Enter the same shift value that was used for encryption. The program will automatically reverse the shift.
+
 3. Exit:
    Quits the program.
 
@@ -56,7 +61,7 @@ Example
 
 Let's say you want to encrypt "HELLO WORLD" with a shift of 3:
 
-Enter your choice (1, 2, or 3): 1
+# Enter your choice (1, 2, or 3): 1
 Enter the message to encrypt: HELLO WORLD
 Enter the shift value (an integer): 3
 Encrypted message: KHOOR ZRUOG
