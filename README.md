@@ -15,7 +15,7 @@ The Caesar Cipher is one of the oldest and simplest methods of encryption. It's 
 
 Getting Started  
 Prerequisites  
-You only need Python installed on your system. This program was developed with Python 3.x.
+You only need Python installed on your system. This program was developed with Python 3.13.5
 
 1. Installation
 Clone the repository (or download the file):
