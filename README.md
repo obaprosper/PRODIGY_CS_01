@@ -5,11 +5,12 @@ Overview
 This Python program implements the classic Caesar Cipher algorithm, allowing users to encrypt and decrypt text messages using a specified shift value. It's a simple yet fundamental cryptographic tool, perfect for understanding basic encryption concepts.
 
 Features
-Encryption: Scramble your messages to keep them secret.
-Decryption: Unscramble encrypted messages back to their original form.
-User-Friendly Interface: Simple command-line prompts for easy interaction.
-Case Preservation: Handles both uppercase and lowercase letters.
-Non-Alphabetic Character Preservation: Spaces, numbers, and punctuation remain unchanged.
+
+1. Encryption: Scramble your messages to keep them secret.
+2. Decryption: Unscramble encrypted messages back to their original form.
+3. User-Friendly Interface: Simple command-line prompts for easy interaction.
+4. Case Preservation: Handles both uppercase and lowercase letters.
+5. Non-Alphabetic Character Preservation: Spaces, numbers, and punctuation remain unchanged.
 
 How the Caesar Cipher Works
 The Caesar Cipher is one of the oldest and simplest methods of encryption. It's a type of substitution cipher where each letter in the plaintext (original message) is replaced by a letter some fixed number of positions down or up the alphabet. For example, with a left shift of 3, 'D' would be replaced by 'A', 'E' would become 'B', and so on.
